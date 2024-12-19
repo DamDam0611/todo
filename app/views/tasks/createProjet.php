@@ -1,4 +1,4 @@
-<h1>Ajouter une tâche</h1>
+<h1>Ajouter un projet</h1>
 <form method="POST">
  <label for="title" >Titre :</label>
  <input type="text" name="title" required>
